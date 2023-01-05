@@ -1,0 +1,37 @@
+.body
+{
+    background-color: rgb(255, 0, 136);
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px deepskyblue;
+}
+
+.note
+{
+    font-size: 15px;
+    color: yellow;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 102, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 255, 255);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    color: deeppink;
+    border:5px solid greenyellow;
+    border-radius: 20px;
+    box-shadow: 5px 15px 20px 20px deepskyblue;
+}
